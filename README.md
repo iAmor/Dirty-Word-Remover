@@ -5,3 +5,4 @@ To run this program, use the command line to navigate to the directory that cont
 python sealingtech.py inputfile.txt configfile.txt
 
 Where inputfile.txt and configfile.txt are your input and configuration text files, respectively.
+After running the program, a file called out.txt will appear in the directory, with the dirty words removed.

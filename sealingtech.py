@@ -39,5 +39,3 @@ with open("out.txt", "w") as out, open(original, "r") as inp:
                 out.write(l[i])
                 flag = 1
         out.write("\n")
-out.close()
-inp.close()
